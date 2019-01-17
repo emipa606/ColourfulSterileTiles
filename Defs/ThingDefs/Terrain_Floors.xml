@@ -21,13 +21,13 @@
   </TerrainDef>
 
   <TerrainDef ParentName="ColourTileBase">
-    <defName>RedSterileTile</defName>
-    <label>red sterile tile</label>
-    <renderPrecedence>244</renderPrecedence>
-    <description>Red Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</description>
-    <color>(128, 0, 0)</color>
+    <defName>BlackSterileTile</defName>
+    <label>black sterile tile</label>
+    <renderPrecedence>247</renderPrecedence>
+    <description>Black Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</description>
+    <color>(35, 35, 35)</color>
   </TerrainDef>
- 
+  
   <TerrainDef ParentName="ColourTileBase">
     <defName>BlueSterileTile</defName>
     <label>blue sterile tile</label>
@@ -45,13 +45,29 @@
   </TerrainDef>
   
   <TerrainDef ParentName="ColourTileBase">
-    <defName>BlackSterileTile</defName>
-    <label>black sterile tile</label>
-    <renderPrecedence>247</renderPrecedence>
-    <description>Black Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</description>
-    <color>(35, 35, 35)</color>
+    <defName>RedSterileTile</defName>
+    <label>red sterile tile</label>
+    <renderPrecedence>244</renderPrecedence>
+    <description>Red Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</description>
+    <color>(128, 0, 0)</color>
+  </TerrainDef>   
+    
+  <TerrainDef ParentName="ColourTileBase">
+    <defName>TealSterileTile</defName>
+    <label>teal sterile tile</label>
+    <renderPrecedence>249</renderPrecedence>
+    <description>Teal Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</description>
+    <color>(0, 128, 128)</color>
   </TerrainDef>
     
+  <TerrainDef ParentName="ColourTileBase">
+    <defName>PurpleSterileTile</defName>
+    <label>purple sterile tile</label>
+    <renderPrecedence>250</renderPrecedence>
+    <description>Purple Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</description>
+    <color>(128, 0, 128)</color>
+  </TerrainDef>
+  
   <TerrainDef ParentName="ColourTileBase">
     <defName>YellowSterileTile</defName>
     <label>yellow sterile tile</label>
@@ -59,4 +75,5 @@
     <description>Yellow Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</description>
     <color>(225, 225, 0)</color>
   </TerrainDef>
+  
 </Defs>
