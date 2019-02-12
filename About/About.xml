@@ -2,10 +2,11 @@
 <ModMetaData>
     <name>Colourful Sterile Tiles</name>
     <author>Mlie</author>
-    <targetVersion>1.0.2059</targetVersion>
+	<url>https://github.com/emipa606/ColourfulSterileTiles</url>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
     <description>This mod adds a Colourful Sterile Tiles, Sterile Tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.
-
-Non-Steam version: https://github.com/emipa606/ColourfulSterileTiles
 ---
 This is a continuation of Captain Stakys mod Red Sterile Tile:
 https://steamcommunity.com/sharedfiles/filedetails/?id=1273442199
