@@ -141,7 +141,7 @@
   </TerrainDef>
   
   <TerrainDef ParentName="ColourTileBase">
-    <defName>Bed YellowSterileTile</defName>
+    <defName>BedYellowSterileTile</defName>
     <label>bed yellow sterile tile</label>
     <description>Bed Yellow Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</description>
     <color>(173, 165, 121)</color>
