@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GraySterileTile.label>gray sterile tile</GraySterileTile.label>
+  <GraySterileTile.description>Gray Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</GraySterileTile.description>
+
+  <BlackSterileTile.label>black sterile tile</BlackSterileTile.label>
+  <BlackSterileTile.description>Black Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</BlackSterileTile.description>
+
+  <LightBlueSterileTile.label>light blue sterile tile</LightBlueSterileTile.label>
+  <LightBlueSterileTile.description>Light Blue Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</LightBlueSterileTile.description>
+
+  <BedBlueSterileTile.label>bed blue sterile tile</BedBlueSterileTile.label>
+  <BedBlueSterileTile.description>Bed Blue Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</BedBlueSterileTile.description>
+
+  <BlueSterileTile.label>blue sterile tile</BlueSterileTile.label>
+  <BlueSterileTile.description>Blue Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</BlueSterileTile.description>
+
+  <LightGreenSterileTile.label>light green sterile tile</LightGreenSterileTile.label>
+  <LightGreenSterileTile.description>Light Green Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</LightGreenSterileTile.description>
+
+  <BedGreenSterileTile.label>bed green sterile tile</BedGreenSterileTile.label>
+  <BedGreenSterileTile.description>Bed Green Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</BedGreenSterileTile.description>
+
+  <GreenSterileTile.label>green sterile tile</GreenSterileTile.label>
+  <GreenSterileTile.description>Green Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</GreenSterileTile.description>
+
+  <LightRedSterileTile.label>light red sterile tile</LightRedSterileTile.label>
+  <LightRedSterileTile.description>Light Red Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</LightRedSterileTile.description>
+
+  <BedRedSterileTile.label>bed red sterile tile</BedRedSterileTile.label>
+  <BedRedSterileTile.description>Bed Red Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</BedRedSterileTile.description>
+
+  <RedSterileTile.label>red sterile tile</RedSterileTile.label>
+  <RedSterileTile.description>Red Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</RedSterileTile.description>
+
+  <LightTealSterileTile.label>light teal sterile tile</LightTealSterileTile.label>
+  <LightTealSterileTile.description>Light Teal Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</LightTealSterileTile.description>
+
+  <TealSterileTile.label>teal sterile tile</TealSterileTile.label>
+  <TealSterileTile.description>Teal Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</TealSterileTile.description>
+
+  <LightPurpleSterileTile.label>light purple sterile tile</LightPurpleSterileTile.label>
+  <LightPurpleSterileTile.description>Light Purple Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</LightPurpleSterileTile.description>
+
+  <BedPurpleSterileTile.label>bed purple sterile tile</BedPurpleSterileTile.label>
+  <BedPurpleSterileTile.description>Bed Purple Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</BedPurpleSterileTile.description>
+
+  <PurpleSterileTile.label>purple sterile tile</PurpleSterileTile.label>
+  <PurpleSterileTile.description>Purple Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</PurpleSterileTile.description>
+
+  <LightYellowSterileTile.label>light yellow sterile tile</LightYellowSterileTile.label>
+  <LightYellowSterileTile.description>Light Yellow Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</LightYellowSterileTile.description>
+
+  <BedYellowSterileTile.label>bed yellow sterile tile</BedYellowSterileTile.label>
+  <BedYellowSterileTile.description>Bed Yellow Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</BedYellowSterileTile.description>
+
+  <YellowSterileTile.label>yellow sterile tile</YellowSterileTile.label>
+  <YellowSterileTile.description>Yellow Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</YellowSterileTile.description>
+
+
+</LanguageData>
